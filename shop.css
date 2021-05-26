@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,300&display=swap');
+*{
+    margin:0;
+    box-sizing: border-box;
+    padding: 0;
+font-family: 'Mulish',sans-serif;
+}
+body{
+    justify-content: center;
+    align-items: center;
+}
+h1{
+color: black;
+font-weight: 500;
+}
+.fa-heart:hover{
+    color: red;
+ }
+ .fa-shopping-bag:hover{
+color:blue;
+ }
+ .bd-footer{
+     color: whitesmoke;
+ }
+
+
+ .fa-google-plus-g{
+     width: 20px;
+ }
+ .fa-linkedin-in{
+     width: 20px;
+ }
